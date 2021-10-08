@@ -1,0 +1,7 @@
+﻿  Form1.cpp
+C:\Users\heyan\OneDrive\Рабочий стол\Duorb\Duorb\Form1.cpp(6,10): error C2976: std::array: слишком мало аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(486): message : см. объявление "std::array"
+C:\Users\heyan\OneDrive\Рабочий стол\Duorb\Duorb\Form1.cpp(6,30): error C3699: ^: это косвенное обращение невозможно использовать для типа "std::array"
+C:\Users\heyan\OneDrive\Рабочий стол\Duorb\Duorb\Form1.cpp(6,30): message : для продолжения работы компилятор заменил "^" на "*"
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Создание кода...
